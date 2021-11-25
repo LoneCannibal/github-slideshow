@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+When the impostor is sus *Among Us theme song plays*
 Use the left arrow to go back!
